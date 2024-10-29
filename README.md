@@ -2,6 +2,11 @@
 
 ## 0. Introduction
 
+Clone repo
+```bash
+git clone git@github.com:chribjel/react-lynkurs.git
+```
+
 ### 0.1 Install Bun
 
 ```bash
